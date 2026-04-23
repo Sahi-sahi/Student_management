@@ -46,7 +46,7 @@ Make sure the following are installed on your system:
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student_management.git
+git clone https://github.com/Sahi-sahi/student_management.git
 cd student_management
 ```
 
@@ -179,7 +179,7 @@ curl http://127.0.0.1:5000/students
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@Sahi-sahi](https://github.com/Sahi-sahi)
 
 ---
 
